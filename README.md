@@ -1,97 +1,68 @@
-<h1 align="center">Hi 👋, I'm Hoka Cristian Son</h1>
+<h1 align="center">Hi 👋, I&#39;m Hoka Cristian Son</h1>
 
-<h3 align="center">Pragmatic Software Engineer · Mobile &amp; Distributed Systems</h3>
+<h3 align="center">Fullstack Developer @ Mindwalker · Building LLM-powered apps with Go &amp; AI tooling</h3>
 
 <p align="center">
-  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/badge/social/github?style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/hokacsa"><img src="https://badge.hokacristian.com/api/badge/social/linkedin?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://www.threads.com/@hoka.csa"><img src="https://badge.hokacristian.com/api/badge/social/threads?style=for-the-badge" alt="Threads" /></a>
-  <a href="https://t.me/hokacsa"><img src="https://badge.hokacristian.com/api/badge/social/telegram?style=for-the-badge" alt="Telegram" /></a>
-  <a href="https://hokacristian.com/"><img src="https://badge.hokacristian.com/api/badge/social/website?style=for-the-badge" alt="Website" /></a>
+  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/badge/social/github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hokacristian/"><img src="https://badge.hokacristian.com/api/badge/social/linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.threads.com/@hoka.csa"><img src="https://badge.hokacristian.com/api/badge/social/threads" alt="Threads" /></a>
+  <a href="https://hokacristian.com/"><img src="https://badge.hokacristian.com/api/badge/social/website" alt="Website" /></a>
 </p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Building reliable, zero-bloat systems with a focus on real-world utility.<br />
-Alumni of <strong>IDCamp</strong> &amp; representative of <strong>Bangkit Academy</strong>. Based in Indonesia 🇮🇩.
+I&#39;m a fullstack developer at Mindwalker (mindwalker.ai) in Jakarta, with a strong backend focus on Golang, PostgreSQL, and Docker. I build LLM-powered applications for enterprise clients, using Dify, the Claude API, and RAG-style pipelines to turn messy business processes into working AI products.<br />
+<br />
+Right now I&#39;m going deeper into AI product engineering: agentic systems, local LLMs, and the infra that makes them reliable in production.
 </p>
-
----
 
 <h2 align="center">🛠 Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
 
 <p align="center">
-  <img src="https://badge.hokacristian.com/api/badge/tech/dart?style=for-the-badge" alt="Dart" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/typescript?style=for-the-badge" alt="TypeScript" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/javascript?style=for-the-badge" alt="JavaScript" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/python?style=for-the-badge" alt="Python" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/go?style=for-the-badge" alt="Go" />
-</p>
-
-<h4 align="center">Frontend &amp; Mobile</h4>
-
-<p align="center">
-  <img src="https://badge.hokacristian.com/api/badge/tech/flutter?style=for-the-badge" alt="Flutter" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/react?style=for-the-badge" alt="React" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/vite?style=for-the-badge" alt="Vite" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/javascript" alt="JavaScript" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/typescript" alt="TypeScript" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/python" alt="Python" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/dart" alt="Dart" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/go" alt="Go" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/kotlin" alt="Kotlin" />
 </p>
 
 <h4 align="center">Backend &amp; Servers</h4>
 
 <p align="center">
-  <img src="https://badge.hokacristian.com/api/badge/tech/nodejs?style=for-the-badge" alt="Node.js" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/express?style=for-the-badge" alt="Express" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/docker?style=for-the-badge" alt="Docker" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/linux?style=for-the-badge" alt="Linux" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/ubuntu?style=for-the-badge" alt="Ubuntu" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/nodejs" alt="Node.js" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/express" alt="Express" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/fastapi" alt="FastAPI" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/gin" alt="Gin" />
 </p>
 
-<h4 align="center">Databases &amp; Cloud Tools</h4>
+<h4 align="center">DevOps, Cloud &amp; Tools</h4>
 
 <p align="center">
-  <img src="https://badge.hokacristian.com/api/badge/tech/postgresql?style=for-the-badge" alt="PostgreSQL" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/sqlite?style=for-the-badge" alt="SQLite" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/redis?style=for-the-badge" alt="Redis" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/cloudflare?style=for-the-badge" alt="Cloudflare" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/git?style=for-the-badge" alt="Git" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/figma?style=for-the-badge" alt="Figma" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/docker" alt="Docker" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/linux" alt="Linux" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/ubuntu" alt="Ubuntu" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/githubactions" alt="GitHub Actions" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/postman" alt="Postman" />
 </p>
 
----
-
-<h2 align="center">🚀 Live Systems &amp; Open Source</h2>
-
-**IndoMock**
-• Role / Stack: Indonesian Mock Data &amp; REST API Engine<br><sub>Node.js · React 19 · Synthetic Generator (GS1 Barcodes, NIK, QRIS)</sub>
-• Status &amp; Links: Live App (https://mock.hokacristian.com/) · Source (https://github.com/hokacristian/indomock)
-
-
----
-
-<h2 align="center">📊 Activity &amp; Consistency</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/hokacristian">
-    <img src="https://badge.hokacristian.com/api/github/streak?username=hokacristian&amp;theme=tokyonight" alt="Hoka's GitHub Streak" width="97%" />
-  </a>
+  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/github/streak?username=hokacristian&amp;theme=transparent" alt="Contribution Streak card" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hokacristian">
-    <img src="https://badge.hokacristian.com/api/github/stats?username=hokacristian&amp;theme=tokyonight" alt="Hoka's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/hokacristian">
-    <img src="https://badge.hokacristian.com/api/github/langs?username=hokacristian&amp;theme=tokyonight" alt="Top Languages" width="48%" />
-  </a>
+  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/github/stats?username=hokacristian&amp;theme=transparent" alt="GitHub Stats card" /></a>
 </p>
 
 <p align="center">
-  <a href="https://badge.hokacristian.com">
-    <img src="https://badge.hokacristian.com/api/quote?category=wisdom&amp;theme=tokyonight" alt="Engineering Quote" width="97%" />
-  </a>
+  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/github/langs?username=hokacristian&amp;theme=transparent" alt="Top Languages card" /></a>
+</p>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/quote?seed=867113&amp;theme=transparent" alt="Dev Quote card" />
 </p>
