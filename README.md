@@ -1,20 +1,98 @@
 <h1 align="center">Hi 👋, I'm Hoka Cristian Son</h1>
-<h3 align="center">A passionate software engineer from Indonesia.</h3>
 
-- 🌱 I’m currently expanding my skills in **backend and mobile development**
+<h3 align="center">Pragmatic Software Engineer · Mobile &amp; Distributed Systems</h3>
 
-- 📫 How to reach me **hokacristian@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hokacsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hokacsa/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/hokacristian"><img src="https://badge.hokacristian.com/api/badge/social/github?style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hokacsa"><img src="https://badge.hokacristian.com/api/badge/social/linkedin?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.threads.com/@hoka.csa"><img src="https://badge.hokacristian.com/api/badge/social/threads?style=for-the-badge" alt="Threads" /></a>
+  <a href="https://t.me/hokacsa"><img src="https://badge.hokacristian.com/api/badge/social/telegram?style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://hokacristian.com/"><img src="https://badge.hokacristian.com/api/badge/social/website?style=for-the-badge" alt="Website" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hokacristian&show_icons=true&locale=en&layout=compact" alt="hokacristian" /></p>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hokacristian&show_icons=true&locale=en" alt="hokacristian" /></p>
+<p align="center">
+Building reliable, zero-bloat systems with a focus on real-world utility.<br />
+Alumni of <strong>IDCamp</strong> &amp; representative of <strong>Bangkit Academy</strong>. Based in Indonesia 🇮🇩.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hokacristian&" alt="hokacristian" /></p>
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h4 align="center">Languages</h4>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/badge/tech/dart?style=for-the-badge" alt="Dart" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/typescript?style=for-the-badge" alt="TypeScript" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/javascript?style=for-the-badge" alt="JavaScript" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/python?style=for-the-badge" alt="Python" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/go?style=for-the-badge" alt="Go" />
+</p>
+
+<h4 align="center">Frontend &amp; Mobile</h4>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/badge/tech/flutter?style=for-the-badge" alt="Flutter" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/react?style=for-the-badge" alt="React" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/vite?style=for-the-badge" alt="Vite" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/tailwindcss?style=for-the-badge" alt="Tailwind CSS" />
+</p>
+
+<h4 align="center">Backend &amp; Servers</h4>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/badge/tech/nodejs?style=for-the-badge" alt="Node.js" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/express?style=for-the-badge" alt="Express" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/docker?style=for-the-badge" alt="Docker" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/linux?style=for-the-badge" alt="Linux" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/ubuntu?style=for-the-badge" alt="Ubuntu" />
+</p>
+
+<h4 align="center">Databases &amp; Cloud Tools</h4>
+
+<p align="center">
+  <img src="https://badge.hokacristian.com/api/badge/tech/postgresql?style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/sqlite?style=for-the-badge" alt="SQLite" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/redis?style=for-the-badge" alt="Redis" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/cloudflare?style=for-the-badge" alt="Cloudflare" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/git?style=for-the-badge" alt="Git" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/figma?style=for-the-badge" alt="Figma" />
+</p>
+
+---
+
+<h2 align="center">🚀 Live Systems &amp; Open Source</h2>
+
+**IndoMock**
+• Role / Stack: Indonesian Mock Data &amp; REST API Engine<br><sub>Node.js · React 19 · Synthetic Generator (GS1 Barcodes, NIK, QRIS)</sub>
+• Status &amp; Links: Live App (https://mock.hokacristian.com/) · Source (https://github.com/hokacristian/indomock)
+
+
+---
+
+<h2 align="center">📊 Activity &amp; Consistency</h2>
+
+<p align="center">
+  <a href="https://github.com/hokacristian">
+    <img src="https://badge.hokacristian.com/api/github/streak?username=hokacristian&amp;theme=tokyonight" alt="Hoka's GitHub Streak" width="97%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hokacristian">
+    <img src="https://badge.hokacristian.com/api/github/stats?username=hokacristian&amp;theme=tokyonight" alt="Hoka's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/hokacristian">
+    <img src="https://badge.hokacristian.com/api/github/langs?username=hokacristian&amp;theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://badge.hokacristian.com">
+    <img src="https://badge.hokacristian.com/api/quote?category=wisdom&amp;theme=tokyonight" alt="Engineering Quote" width="97%" />
+  </a>
+</p>
