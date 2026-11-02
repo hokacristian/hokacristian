@@ -39,7 +39,6 @@ Alumni of <strong>IDCamp</strong> &amp; representative of <strong>Bangkit Academ
   <img src="https://badge.hokacristian.com/api/badge/tech/flutter?style=for-the-badge" alt="Flutter" />
   <img src="https://badge.hokacristian.com/api/badge/tech/react?style=for-the-badge" alt="React" />
   <img src="https://badge.hokacristian.com/api/badge/tech/vite?style=for-the-badge" alt="Vite" />
-  <img src="https://badge.hokacristian.com/api/badge/tech/tailwindcss?style=for-the-badge" alt="Tailwind CSS" />
 </p>
 
 <h4 align="center">Backend &amp; Servers</h4>
