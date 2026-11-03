@@ -27,6 +27,7 @@ Right now I&#39;m going deeper into AI product engineering: agentic systems, loc
   <img src="https://badge.hokacristian.com/api/badge/tech/python" alt="Python" />
   <img src="https://badge.hokacristian.com/api/badge/tech/dart" alt="Dart" />
   <img src="https://badge.hokacristian.com/api/badge/tech/go" alt="Go" />
+  <img src="https://badge.hokacristian.com/api/badge/tech/rust" alt="Rust" />
   <img src="https://badge.hokacristian.com/api/badge/tech/kotlin" alt="Kotlin" />
 </p>
 
@@ -64,5 +65,5 @@ Right now I&#39;m going deeper into AI product engineering: agentic systems, loc
 </p>
 
 <p align="center">
-  <img src="https://badge.hokacristian.com/api/quote?seed=867113&amp;theme=transparent" alt="Dev Quote card" />
+  <img src="https://badge.hokacristian.com/api/quote?seed=647758&amp;theme=transparent" alt="Dev Quote card" />
 </p>
